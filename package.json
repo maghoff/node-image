@@ -59,7 +59,6 @@
        "node": ">=0.5.9"
    },
    "scripts": {
-       "install": "node-gyp rebuild"
+       "install": "./build-with-deps.sh"
    }
 }
-
