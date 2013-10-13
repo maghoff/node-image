@@ -75,6 +75,7 @@ then
 			Makefile.osx
 	fi
 
+	export CXXFLAGS="-include string.h"
 	make
 	make install DESTDIR="$PREFIX"
 
