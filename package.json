@@ -59,6 +59,7 @@
        "node": ">=0.5.9"
    },
    "scripts": {
-       "install": "./build-with-deps.sh"
+       "prepublish": "./download-freeimage-source.sh",
+       "install": "./build.sh"
    }
 }
