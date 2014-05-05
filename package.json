@@ -34,7 +34,7 @@
        "node": ">=0.5.9"
    },
    "scripts": {
-       "prepublish": "./download-freeimage-source.sh",
+       "prepublish": "./prepublish.sh",
        "install": "./build.sh"
    }
 }
