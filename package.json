@@ -44,7 +44,7 @@
        "url": "http://github.com/mikeseven/node-image/raw/master/LICENSES" 
      }
    ],
-   "repositories": [
+   "repository": [
        {
            "type": "git",
            "url": "https://mikeseven@github.com/mikeseven/node-image.git" 
